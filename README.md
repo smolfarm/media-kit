@@ -1,5 +1,5 @@
-# 🦆 smol farm media kit 😻
-Media assets and style guidelines for use with smol farm &amp; related projects.
+# 🦆 media kit 😻
+Media assets and style guidelines for coverage of **smol farm**, a lesbian-owned farm & digital studio based out of Metro Atlanta.
 
 ## Contents
 
